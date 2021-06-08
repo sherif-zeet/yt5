@@ -1,3 +1,7 @@
-Flask==2.0.1
-pytube==10.8.4
-logining==1.1.0
+py -m pip
+python -m pip install flask
+python -m pip install flask==1.0.4 
+python -m pip install 'flask>=1.0.4'
+python -m pip install pytube
+python -m pip install pytube==1.0.4 
+python -m pip install 'pytube>=1.0.4'
