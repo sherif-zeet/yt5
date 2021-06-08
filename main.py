@@ -178,6 +178,11 @@ Files you've downloaded are automatically saved in the Downloads folder or the "
 </div>
 </footer>
 
+
+<script>
+console.log("Created by : Sherif Abdullah Mahmoud")
+<script>
+
                     </body></html>"""
     return html_page
 
@@ -360,6 +365,9 @@ Files you've downloaded are automatically saved in the Downloads folder or the "
 <cneter>yt5.com © Sherif Abdullah Mahmoud 2021</center>
 </div>
 </footer>
+<script>
+console.log("Created by : Sherif Abdullah Mahmoud")
+<script>
 
                     </body></html>"""
 if __name__ == '__main__':
