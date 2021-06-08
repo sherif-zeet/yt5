@@ -21,6 +21,21 @@ def youtube_downloader():
                     <link href="view-source:http://codenow.epizy.com/CSS/socialmedia/style.css" rel="stylesheet"/>
                     <link rel="stylesheet" type="text/css" href="https://yt1s.com/statics/css/style.css?v=1.99">
                     <link rel="icon" type="image/png" href="https://yt1s.com/statics/image/favicon-128x128.png" sizes="128x128">
+                    <link rel="alternate" href="https://yt1s.com/en6" hreflang="x-default" /><link rel="alternate" href="https://yt1s.com/en6" hreflang="en" /><link rel="alternate" href="https://yt1s.com/de5" hreflang="de" /><link rel="alternate" href="https://yt1s.com/es6" hreflang="es" /><link rel="alternate" href="https://yt1s.com/fr" hreflang="fr" /><link rel="alternate" href="https://yt1s.com/hi" hreflang="hi" /><link rel="alternate" href="https://yt1s.com/id" hreflang="id" /><link rel="alternate" href="https://yt1s.com/it1" hreflang="it" /><link rel="alternate" href="https://yt1s.com/ja1" hreflang="ja" /><link rel="alternate" href="https://yt1s.com/ko1" hreflang="ko" /><link rel="alternate" href="https://yt1s.com/my1" hreflang="my" /><link rel="alternate" href="https://yt1s.com/ms" hreflang="ms" /><link rel="alternate" href="https://yt1s.com/ph" hreflang="en-PH" /><link rel="alternate" href="https://yt1s.com/pt2" hreflang="pt" /><link rel="alternate" href="https://yt1s.com/ru1" hreflang="ru" /><link rel="alternate" href="https://yt1s.com/th" hreflang="th" /><link rel="alternate" href="https://yt1s.com/tr1" hreflang="tr" /><link rel="alternate" href="https://yt1s.com/vi1" hreflang="vi" /><link rel="alternate" href="https://yt1s.com/zh-cn" hreflang="zh-CN" /><link rel="alternate" href="https://yt1s.com/zh-tw" hreflang="zh-TW" /><link rel="alternate" href="https://yt1s.com/sa1" hreflang="sa" /><link rel="alternate" href="https://yt1s.com/bn" hreflang="bn" />
+<link rel="icon" type="image/png" href="https://yt1s.com/statics/image/favicon.png" />
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://yt1s.com/statics/image/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://yt1s.com/statics/image/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://yt1s.com/statics/image/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://yt1s.com/statics/image/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://yt1s.com/statics/image/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://yt1s.com/statics/image/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://yt1s.com/statics/image/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://yt1s.com/statics/image/apple-touch-icon-152x152.png" />
+<link rel="icon" type="image/png" href="https://yt1s.com/statics/image/favicon-196x196.png" sizes="196x196" />
+<link rel="icon" type="image/png" href="https://yt1s.com/statics/image/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="https://yt1s.com/statics/image/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="https://yt1s.com/statics/image/favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="https://yt1s.com/statics/image/favicon-128x128.png" sizes="128x128" />
                     </head>
                     <body style="font-family: Arial, Helvetica, sans-serif;">
 <header>
@@ -208,6 +223,22 @@ def download_video():
                     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet"/>
                     <link href="view-source:http://codenow.epizy.com/CSS/socialmedia/style.css" rel="stylesheet"/>
                     <link rel="stylesheet" type="text/css" href="https://yt1s.com/statics/css/style.css?v=1.99">
+                    <link rel="alternate" href="https://yt1s.com/en6" hreflang="x-default" /><link rel="alternate" href="https://yt1s.com/en6" hreflang="en" /><link rel="alternate" href="https://yt1s.com/de5" hreflang="de" /><link rel="alternate" href="https://yt1s.com/es6" hreflang="es" /><link rel="alternate" href="https://yt1s.com/fr" hreflang="fr" /><link rel="alternate" href="https://yt1s.com/hi" hreflang="hi" /><link rel="alternate" href="https://yt1s.com/id" hreflang="id" /><link rel="alternate" href="https://yt1s.com/it1" hreflang="it" /><link rel="alternate" href="https://yt1s.com/ja1" hreflang="ja" /><link rel="alternate" href="https://yt1s.com/ko1" hreflang="ko" /><link rel="alternate" href="https://yt1s.com/my1" hreflang="my" /><link rel="alternate" href="https://yt1s.com/ms" hreflang="ms" /><link rel="alternate" href="https://yt1s.com/ph" hreflang="en-PH" /><link rel="alternate" href="https://yt1s.com/pt2" hreflang="pt" /><link rel="alternate" href="https://yt1s.com/ru1" hreflang="ru" /><link rel="alternate" href="https://yt1s.com/th" hreflang="th" /><link rel="alternate" href="https://yt1s.com/tr1" hreflang="tr" /><link rel="alternate" href="https://yt1s.com/vi1" hreflang="vi" /><link rel="alternate" href="https://yt1s.com/zh-cn" hreflang="zh-CN" /><link rel="alternate" href="https://yt1s.com/zh-tw" hreflang="zh-TW" /><link rel="alternate" href="https://yt1s.com/sa1" hreflang="sa" /><link rel="alternate" href="https://yt1s.com/bn" hreflang="bn" />
+<link rel="icon" type="image/png" href="https://yt1s.com/statics/image/favicon.png" />
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://yt1s.com/statics/image/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://yt1s.com/statics/image/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://yt1s.com/statics/image/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://yt1s.com/statics/image/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://yt1s.com/statics/image/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://yt1s.com/statics/image/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://yt1s.com/statics/image/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://yt1s.com/statics/image/apple-touch-icon-152x152.png" />
+<link rel="icon" type="image/png" href="https://yt1s.com/statics/image/favicon-196x196.png" sizes="196x196" />
+<link rel="icon" type="image/png" href="https://yt1s.com/statics/image/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="https://yt1s.com/statics/image/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="https://yt1s.com/statics/image/favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="https://yt1s.com/statics/image/favicon-128x128.png" sizes="128x128" />
+             
                     <link rel="icon" type="image/png" href="https://yt1s.com/statics/image/favicon-128x128.png" sizes="128x128">
                     </head>
                     <body style="font-family: Arial, Helvetica, sans-serif;">
