@@ -69,7 +69,7 @@ def youtube_downloader():
                     </form></div><br><br><br><br>
 
                     <center><h2 class="title">Youtube Video Downloader</h2></center>
-                    <div class="mw70">Download Youtube videos with YT1s YouTube Downloader. By using our downloader you can easily convert YouTube videos to MP3, MP4, 3GP, WEBM, M4A files... and download them for free - this service works for computers, tablets and mobile devices. The videos are always converted in the highest available quality.</div>
+                    <div class="mw70">Download Youtube videos with YT5 YouTube Downloader. By using our downloader you can easily convert YouTube videos to MP4 file... and download them for free - this service works for computers, tablets and mobile devices. The videos are always converted in the highest available quality.</div>
                     <div class="ftco-section center">
 <h2 class="title">How to download Youtube video? </h2>
 <ul class="listicon liststep">
@@ -79,7 +79,7 @@ def youtube_downloader():
 </li>
 <li>
 <span class="number">2</span>
-<span>Choose output MP4 or MP3 format you want to convert and click "Download" button.</span>
+<span>Choose output MP4 format you want to convert and click "Download" button.</span>
 </li>
 <li>
 <span class="number">3</span>
@@ -133,7 +133,7 @@ No. Our website allows users to convert and download unlimited amount of file an
 </div>
 <div class="faq_item_content" id="divId" itemprop="acceptedAnswer" itemscope="" itemtype="https://schema.org/Answer">
 <div itemprop="text">
-We offer a ton of conversion options and allow you to download MP4, 3GP, MP3 format. You can watch video right after that on your device without installing any other software. </div>
+We offer a ton of conversion options and allow you to download MP4 format. You can watch video right after that on your device without installing any other software. </div>
 </div>
 </div>
 <div class="faq_item" itemprop="mainEntity" itemscope="" itemtype="https://schema.org/Question">
@@ -273,7 +273,7 @@ def download_video():
                     </form></div><br><br><br><br>
 
                     <center><h2 class="title">Youtube Video Downloader</h2></center>
-                    <div class="mw70">Download Youtube videos with YT1s YouTube Downloader. By using our downloader you can easily convert YouTube videos to MP3, MP4, 3GP, WEBM, M4A files... and download them for free - this service works for computers, tablets and mobile devices. The videos are always converted in the highest available quality.</div>
+                    <div class="mw70">Download Youtube videos with YT1s YouTube Downloader. By using our downloader you can easily convert YouTube videos to MP3 file... and download them for free - this service works for computers, tablets and mobile devices. The videos are always converted in the highest available quality.</div>
                     <div class="ftco-section center">
 <h2 class="title">How to download Youtube video? </h2>
 <ul class="listicon liststep">
@@ -283,7 +283,7 @@ def download_video():
 </li>
 <li>
 <span class="number">2</span>
-<span>Choose output MP4 or MP3 format you want to convert and click "Download" button.</span>
+<span>Choose output MP4 format you want to convert and click "Download" button.</span>
 </li>
 <li>
 <span class="number">3</span>
@@ -337,7 +337,7 @@ No. Our website allows users to convert and download unlimited amount of file an
 </div>
 <div class="faq_item_content" id="divId" itemprop="acceptedAnswer" itemscope="" itemtype="https://schema.org/Answer">
 <div itemprop="text">
-We offer a ton of conversion options and allow you to download MP4, 3GP, MP3 format. You can watch video right after that on your device without installing any other software. </div>
+We offer a ton of conversion options and allow you to download MP4 format. You can watch video right after that on your device without installing any other software. </div>
 </div>
 </div>
 <div class="faq_item" itemprop="mainEntity" itemscope="" itemtype="https://schema.org/Question">
