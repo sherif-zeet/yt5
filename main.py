@@ -15,7 +15,7 @@ def youtube_downloader():
     """Render HTML form to accept YouTube URL."""
     html_page = f"""<html><head>
                     <Title>YouTube Downloader</Title></head>
-                    <body><h2>Enter URL to download YouTube Vids!</h2>
+                    <body><h2>Enter URL to download YouTube Videos</h2>
                     <div class="form">
                     <form action="/download_video" method="post">
                     <input type="text" name="URL">
