@@ -15,12 +15,12 @@ def youtube_downloader():
     """Render HTML form to accept YouTube URL."""
     html_page = f"""<html>
                     <head>
-                    <Title>YouTube Downloader</Title>
+                    <Title>Youtube Downloader - Online Youtube Video Downloader | YT5</Title>
                     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
                     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet"/>
                     <link href="view-source:http://codenow.epizy.com/CSS/socialmedia/style.css" rel="stylesheet"/>
                     <link rel="stylesheet" type="text/css" href="https://yt1s.com/statics/css/style.css?v=1.99">
-
+                    <link rel="icon" type="image/png" href="https://yt1s.com/statics/image/favicon-128x128.png" sizes="128x128">
                     </head>
                     <body style="font-family: Arial, Helvetica, sans-serif;">
 <header>
@@ -203,12 +203,12 @@ def download_video():
         logging.exception("Failed download")
         return """<html>
                     <head>
-                    <Title>YouTube Downloader</Title>
+                    <Title>Youtube Downloader - Online Youtube Video Downloader | YT5</Title>
                     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
                     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet"/>
                     <link href="view-source:http://codenow.epizy.com/CSS/socialmedia/style.css" rel="stylesheet"/>
                     <link rel="stylesheet" type="text/css" href="https://yt1s.com/statics/css/style.css?v=1.99">
-
+                    <link rel="icon" type="image/png" href="https://yt1s.com/statics/image/favicon-128x128.png" sizes="128x128">
                     </head>
                     <body style="font-family: Arial, Helvetica, sans-serif;">
 <header>
