@@ -1,7 +1,2 @@
-py -m pip
 python -m pip install flask
-python -m pip install flask==1.0.4 
-python -m pip install 'flask>=1.0.4'
 python -m pip install pytube
-python -m pip install pytube==1.0.4 
-python -m pip install 'pytube>=1.0.4'
