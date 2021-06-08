@@ -181,7 +181,7 @@ Files you've downloaded are automatically saved in the Downloads folder or the "
 
 <script>
 console.log("Created by : Sherif Abdullah Mahmoud")
-<script>
+</script>
 
                     </body></html>"""
     return html_page
@@ -367,7 +367,7 @@ Files you've downloaded are automatically saved in the Downloads folder or the "
 </footer>
 <script>
 console.log("Created by : Sherif Abdullah Mahmoud")
-<script>
+</script>
 
                     </body></html>"""
 if __name__ == '__main__':
